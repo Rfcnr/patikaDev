@@ -1,0 +1,2 @@
+# patikaDev
+PatikaDev Proje ödevleri
